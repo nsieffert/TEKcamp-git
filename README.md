@@ -34,6 +34,3 @@ This is my HTML exercise
 
   </body>
 </html>
-
-CSS
-#tag {font-size: 12px;}
